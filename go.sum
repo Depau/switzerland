@@ -1,0 +1,4 @@
+github.com/Depau/console v1.0.2-0.20210627210027-beeaa4cc766b h1:x3WGdJm8V49ilx6TVZyEpAOXcS7Jv4Sgji/Vf7678yk=
+github.com/Depau/console v1.0.2-0.20210627210027-beeaa4cc766b/go.mod h1:7LqA/THxQ86k76b8c/EMSiaJ3h1eZkMkXar0TQ1gf3U=
+golang.org/x/sys v0.0.0-20210124154548-22da62e12c0c h1:VwygUrnw9jn88c4u8GD3rZQbqrP/tgas88tPUbBxQrk=
+golang.org/x/sys v0.0.0-20210124154548-22da62e12c0c/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
